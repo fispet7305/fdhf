@@ -1,0 +1,20 @@
+h1 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: oblique;
+	font-weight: 700;
+	text-decoration: underline;
+	text-shadow: 0px 0px;
+	text-align: center;
+	line-height: 25pt;
+	font-variant: normal;
+	color: #463636;
+}
+body p {
+	text-align: center;
+}
+h2 {
+	color: #924E4F;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
